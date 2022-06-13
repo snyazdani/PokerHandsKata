@@ -1,7 +1,7 @@
 # PokerHandsKata
 This is a solution for Poker Hands Kata coding challenge.
 Program uses OOP principles to find the winner of a poker game.
-Written in IntelliJ using Java.
+Written in IntelliJ using Java version 11.
 
 
 Poker Hands
